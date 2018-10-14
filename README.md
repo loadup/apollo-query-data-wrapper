@@ -36,7 +36,7 @@ const query = gql`
 class WrapperExample extends Component {
   render () {
     return (
-      <Query query={query}>
+      <Query query={query} variables={{ id: 1 }}>
         {all => (
           <ApolloQueryDataWrapper
             {...all}
