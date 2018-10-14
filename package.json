@@ -4,7 +4,7 @@
   "description": "Conditional rendering wrapper for Apollo&#x27;s Query component",
   "author": "masiamj",
   "license": "MIT",
-  "repository": "loadup/apollo-query-data-wrapper",
+  "repository": "https://github.com/loadup/apollo-query-data-wrapper",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
