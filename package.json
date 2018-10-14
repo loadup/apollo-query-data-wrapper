@@ -1,6 +1,6 @@
 {
   "name": "@loadup/apollo-query-data-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conditional rendering wrapper for Apollo&#x27;s Query component",
   "author": "masiamj",
   "license": "MIT",
